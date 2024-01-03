@@ -1,10 +1,12 @@
 <h1>Facial Recognition Attendance System</h1>
-The Facial Recognition Attendance System is a Python-based application designed to automate the attendance process using facial recognition technology. It captures student information, scans faces, and records attendance data in MySQL Workbench. The system employs machine learning to train on facial features, and during recognition, it displays student details when a recognized face is detected.
+The Facial Recognition Attendance System is a Python-based GUI application designed to automate the attendance process using facial recognition technology. It captures student information, scans faces, and records attendance data in MySQL Workbench. The system employs machine learning to train on facial features, and during recognition, it displays student details when a recognized face is detected.
 
 
 <h2>Features</h2>
 Student Entry: Capture and store student information, including facial data, in MySQL Workbench.
+
 Training: Train the machine learning model with 100 facial images for accurate recognition.
+
 Recognition: Utilize OpenCV and Haarcascades for real-time facial recognition during attendance.
 
 <h2>Technologies Used</h2>

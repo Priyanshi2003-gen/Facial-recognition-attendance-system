@@ -10,8 +10,8 @@ Recognition: Utilize OpenCV and Haarcascades for real-time facial recognition du
 <h2>Technologies Used</h2>
 Python: The entire project is implemented in Python.
 The following Python Libraries are used :
-1. Tkinter: GUI library for building the application interface.
-2. OpenCV: Used for face detection and image processing.
-3. PIL (Pillow): ImageTk for handling image data.
-4. MySQL Connector: Connect and interact with MySQL Workbench for data storage.
-5. Haarcascades: Pre-trained XML classifiers for detecting faces in images.
+\n1. Tkinter: GUI library for building the application interface.
+\n2. OpenCV: Used for face detection and image processing.
+\n3. PIL (Pillow): ImageTk for handling image data.
+\n4. MySQL Connector: Connect and interact with MySQL Workbench for data storage.
+\n5. Haarcascades: Pre-trained XML classifiers for detecting faces in images.
